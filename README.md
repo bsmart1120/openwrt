@@ -78,11 +78,11 @@ make -j$(($(nproc) + 1)) V=s
 
 ### Alipay 支付宝
 
-![alipay](doc/alipay_donate.jpg)
+
 
 ### Wechat 微信
 
-![wechat](doc/wechat_donate.jpg)
+
 
 ------
 
